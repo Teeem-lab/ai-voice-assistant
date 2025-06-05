@@ -1,0 +1,136 @@
+﻿id,level,lesson,jp_text,en_translation,grammar_point,structure_type,vocab_list,kanji_list,audio_file_path,image_description
+0x001,1,1,おはようございます。,Good morning.,greeting,greeting,おはよう,—,audio/0x001.mp3,Sun rising behind school building
+0x002,1,1,はじめまして。,Nice to meet you.,introduction,greeting,はじめまして,—,audio/0x002.mp3,Two people bowing in greeting
+0x003,1,2,このかばんはおおきいですか？,Is this bag big?,い-adjective question,question,"この, かばん, おおきい","鞄, 大",audio/0x003.mp3,A person comparing two bags
+0x004,1,2,そのかばんはたかいです。,That bag is expensive.,い-adjective statement,statement,"その, かばん, たかい","鞄, 高",audio/0x004.mp3,A price tag on a luxury handbag
+0x005,1,3,これはなんですか？,What is this?,question structure,question,"これ, なん",何,audio/0x005.mp3,Someone pointing to an unknown object
+0x006,1,3,それはにほんのまんがです。,That is a Japanese comic book.,noun + の + noun,statement,"それ, にほん, まんが","日本, 漫画",audio/0x006.mp3,A manga book with a Japanese flag
+0x007,1,4,あつかったです。,It was hot.,い-adjective past tense,statement,あつい,暑,audio/0x007.mp3,Sunshine and sweat drops on a student
+0x008,1,4,さむくなかったです。,It was not cold.,い-adjective past negative,statement,さむい,寒,audio/0x008.mp3,"Someone dressed for cold, but sweating"
+0x009,1,4,おおきかったです。,It was big.,い-adjective past tense,statement,おおきい,大,audio/0x009.mp3,A large suitcase on the floor
+0x00A,1,5,うみに行きました。,I went to the beach.,past tense verb,statement,"うみ, 行きます","海, 行",audio/0x00A.mp3,Waves crashing on the beach
+0x00B,1,5,どうでしたか？,How was it?,past question,question,どう,—,audio/0x00B.mp3,Someone asking a friend with curious face
+0x00C,2,6,しゃしんをとりましょうか？,Shall we take a photo?,〜ましょうか (suggestion),suggestion,"しゃしん, とります","写真, 撮",audio/0x00C.mp3,People smiling under cherry blossoms
+0x00D,2,6,いっしょにコンサートに行きましょうか？,Shall we go to a concert together?,〜ましょうか (suggestion),suggestion,"いっしょに, コンサート, 行きます",行,audio/0x00D.mp3,Two people planning an outing
+0x00E,2,7,しゃしんをとってもいいですか？,May I take a photo?,〜てもいいですか (permission request),question,"しゃしん, とります","写真, 撮",audio/0x00E.mp3,A student asking permission to take a photo
+0x00F,2,7,ここでたばこをすってはいけません。,You must not smoke here.,〜てはいけません (prohibition),statement,"ここ, たばこ, すいます",煙,audio/0x00F.mp3,No smoking sign at a station
+0x010,2,8,フライドポテトをたべて、ビールをのみました。,I ate fries and drank beer.,〜て、〜て (sequence),statement,"フライドポテト, たべます, ビール, のみます","食, 飲",audio/0x010.mp3,Beer and fries on a table
+0x011,2,8,今、しゅくだいをしています。,I’m doing homework now.,〜ています (ongoing action),statement,"いま, しゅくだい, します","今, 宿題",audio/0x011.mp3,A student doing homework at a desk
+0x012,2,9,まどをあけてください。,Please open the window.,〜てください (request),request,"まど, あけます","窓, 開",audio/0x012.mp3,Someone opening a classroom window
+0x013,2,9,いそいでください。,Please hurry.,〜てください (request),request,いそぎます,急,audio/0x013.mp3,Someone running toward a train
+0x014,2,10,たすけてください！,Please help!,〜てください (urgent request),request,たすけます,助,audio/0x014.mp3,Someone calling for help in an emergency
+0x015,2,11,いぬがドアのまえにいます。,The dog is in front of the door.,います (existence of living things),statement,"いぬ, ドア, まえ","犬, 前",audio/0x015.mp3,A dog sitting in front of a door
+0x016,2,11,ねこがつくえのしたにいます。,The cat is under the desk.,います + location,statement,"ねこ, つくえ, した","猫, 机, 下",audio/0x016.mp3,A cat hiding beneath a desk
+0x017,2,11,ともだちがへやにきました。,A friend came into the room.,movement verb + location,statement,"ともだち, へや, きます","友達, 部屋, 来",audio/0x017.mp3,A friend entering a tidy room
+0x018,2,12,およぐのがすきです。,I like swimming.,verb + のがすきです,statement,"およぎます, すき",好,audio/0x018.mp3,Someone swimming happily
+0x019,2,12,にほんごをべんきょうするのがすきです。,I like studying Japanese.,verb (irregular) + のがすきです,statement,"にほんご, べんきょうします, すき","日本語, 勉強, 好",audio/0x019.mp3,Student enjoying Japanese study
+0x01A,2,12,ここでしゃしんをとらないでください。,Please don’t take pictures here.,negative verb + でください,request,"ここ, しゃしん, とります","写真, 撮",audio/0x01A.mp3,Sign showing no photography
+0x01B,2,12,たけしさんは「ねこがすきです」といいました。,"Takeshi said, “I like cats.”",といいました (quoting speech),statement,"たけし, ねこ, すき","猫, 好",audio/0x01B.mp3,Speech bubble over Takeshi with a cat
+0x01C,1,Genki 1,これはなんですか？,What is this?,question structure (〜はなんですか),question,"これ, なん",何,audio/0x01C.mp3,Someone pointing at an unknown item
+0x01D,1,Genki 1,これはさかなです。,This is a fish.,noun identification (〜は〜です),statement,"これ, さかな",魚,audio/0x01D.mp3,A fish labeled on a table
+0x01E,1,Genki 1,すしはたべものです。,Sushi is food.,noun classification,statement,"すし, たべもの",食,audio/0x01E.mp3,A plate of sushi with a label 'food'
+0x01F,1,Genki 1,だれのかさですか？,Whose umbrella is this?,だれの〜ですか (possession question),question,"だれ, かさ","誰, 傘",audio/0x01F.mp3,An umbrella left near a doorway
+0x020,1,Genki 1,わたしのかさです。,It is my umbrella.,possessive の,statement,"わたし, の, かさ","私, 傘",audio/0x020.mp3,Someone holding an umbrella and smiling
+0x021,1,Genki 1,いくらですか？,How much is it?,price question,question,いくら,—,audio/0x021.mp3,A price tag next to a product
+0x022,1,Genki 1,さんぜんえんです。,"It is 3,000 yen.",price statement,statement,"さんぜん, えん","三, 千, 円",audio/0x022.mp3,A price tag showing 3000 yen
+0x023,1,Genki 1,わたしはがくせいです。,I am a student.,〜は〜です (self-introduction),statement,"わたし, がくせい","私, 学生",audio/0x023.mp3,A student smiling with books
+0x024,1,Genki 1,メアリーさんはアメリカじんです。,Mary is American.,XはYです (describing someone),statement,"メアリー, アメリカじん",人,audio/0x024.mp3,A person holding an American flag
+0x025,1,Genki 1,せんこうはにほんごです。,My major is Japanese.,〜は〜です (subject focus),statement,"せんこう, にほんご","専攻, 日本語",audio/0x025.mp3,A textbook open to a Japanese lesson
+0x026,1,Genki 1,なんさいですか？,How old are you?,〜さいですか (age question),question,なんさい,何歳,audio/0x026.mp3,A child holding up fingers to show age
+0x027,1,Genki 1,じゅうきゅうさいです。,I am 19 years old.,〜さいです (giving age),statement,"じゅうきゅう, さい","十九, 歳",audio/0x027.mp3,Teenager saying their age proudly
+0x028,1,Genki 1,いまなんじですか？,What time is it now?,〜なんじですか (time question),question,"いま, なんじ","今, 何時",audio/0x028.mp3,A clock showing a random time
+0x029,1,Genki 1,ごごくじです。,It is 9 p.m.,telling time (ごぜん／ごご＋時),statement,"ごご, くじ","午後, 九時",audio/0x029.mp3,Clock showing 9:00 p.m.
+0x02A,1,Genki 1,どこですか？,Where is it?,location question (どこ),question,どこ,—,audio/0x02A.mp3,Someone looking around confused
+0x02B,1,Genki 1,トイレはあそこです。,The bathroom is over there.,〜は〜です + ここ/そこ/あそこ,statement,"トイレ, あそこ",—,audio/0x02B.mp3,A person pointing to a bathroom sign
+0x02C,1,Genki 1,いっしょにコーヒーをのみませんか？,Would you like to drink coffee together?,〜ませんか (invitation),invitation,"いっしょに, コーヒー, のみます",飲,audio/0x02C.mp3,Two friends smiling over coffee
+0x02D,1,Genki 1,いいですね。,Sounds good.,positive response,response,いい,良,audio/0x02D.mp3,A person giving a thumbs up
+0x02E,1,Genki 1,じゃあ、１１じにあいましょう。,"Well then, let's meet at 11 o’clock.",〜ましょう (suggestion),suggestion,"じゃあ, １１じ, あいます","時, 会",audio/0x02E.mp3,Calendar with 11:00 circled
+0x02F,1,Genki 1,しつれいします。,Excuse me (formal).,polite expression,expression,しつれいします,失礼,audio/0x02F.mp3,Someone bowing at a door
+0x030,1,Genki 1,ありがとうございます。,Thank you.,polite expression,expression,ありがとう,—,audio/0x030.mp3,Someone receiving a gift with a smile
+0x031,1,Genki 2,ねこはベッドのうえにいます。,The cat is on the bed.,います + location (〜のうえに),statement,"ねこ, ベッド, うえ","猫, 上",audio/0x031.mp3,A cat sleeping on top of a bed
+0x032,1,Genki 2,ほんはつくえのしたです。,The book is under the desk.,〜のしたです (location),statement,"ほん, つくえ, した","本, 机, 下",audio/0x032.mp3,A book hidden under a school desk
+0x033,1,Genki 2,テレビのまえにソファがあります。,There is a sofa in front of the TV.,あります + location,statement,"テレビ, まえ, ソファ",前,audio/0x033.mp3,A sofa positioned in front of a TV
+0x034,1,Genki 2,あそこにコンビニがあります。,There is a convenience store over there.,あります + 〜に (existence),statement,"あそこ, コンビニ",—,audio/0x034.mp3,A convenience store in the distance
+0x035,1,Genki 2,でんわはつくえのうえです。,The phone is on the desk.,〜のうえです (location phrase),statement,"でんわ, つくえ, うえ","電話, 机, 上",audio/0x035.mp3,A phone placed on top of a wooden desk
+0x036,1,Genki 2,としょかんはどこですか？,Where is the library?,location question,question,"としょかん, どこ",図書館,audio/0x036.mp3,A student asking for library directions
+0x037,1,Genki 2,としょかんはがっこうのとなりです。,The library is next to the school.,〜のとなり (location),statement,"としょかん, がっこう, となり","図書館, 学校, 隣",audio/0x037.mp3,A library next to a large school building
+0x038,1,Genki 2,きっさてんはデパートのなかです。,The café is inside the department store.,〜のなか (location),statement,"きっさてん, デパート, なか","喫茶店, 中",audio/0x038.mp3,A cozy café inside a large department store
+0x039,1,Genki 2,とけいはまどのちかくです。,The clock is near the window.,〜のちかく (location),statement,"とけい, まど, ちかく","時計, 窓, 近く",audio/0x039.mp3,A wall clock hanging beside a bright window
+0x03A,1,Genki 2,きょうはにちようびです。,Today is Sunday.,date + です,statement,"きょう, にちようび","今日, 日曜日",audio/0x03A.mp3,Calendar page showing Sunday marked
+0x03B,1,Genki 2,がっこうはやすみです。,School is closed.,noun + は + noun + です,statement,"がっこう, やすみ","学校, 休み",audio/0x03B.mp3,Empty schoolyard on a weekend
+0x03C,1,Genki 2,スーパーはあさくじからひるにじまでです。,The supermarket is open from 9 a.m. to 2 p.m.,AからBまで (from–to),statement,"スーパー, あさくじ, ひるにじ","朝, 時, 昼, 時",audio/0x03C.mp3,A sign showing supermarket hours
+0x03D,1,Genki 2,ともだちとえいがをみました。,I watched a movie with my friend.,〜と (with),statement,"ともだち, えいが, みました","友達, 映画, 見",audio/0x03D.mp3,Two friends at a movie theater
+0x03E,1,Genki 2,きのう、デパートにいきました。,I went to the department store yesterday.,time + に + place + verb,statement,"きのう, デパート, いきました","昨日, 行",audio/0x03E.mp3,A department store with crowds outside
+0x03F,1,Genki 2,バスていはえきのまえです。,The bus stop is in front of the station.,〜のまえ (location),statement,"バスてい, えき, まえ","駅, 前",audio/0x03F.mp3,A bus stop in front of a train station
+0x040,1,Genki 2,ともだちとレストランでひるごはんをたべました。,I ate lunch at a restaurant with my friend.,"〜で (place of action), 〜と (with)",statement,"ともだち, レストラン, ひるごはん, たべました","友達, 昼ご飯, 食",audio/0x040.mp3,Friends eating lunch at a restaurant
+0x041,1,Genki 2,たなかさんはとしょかんにいきました。,Tanaka went to the library.,〜にいきました (went to),statement,"たなか, としょかん, いきました","田中, 図書館, 行",audio/0x041.mp3,Tanaka walking into a library
+0x042,1,Genki 2,スーパーでおかしをかいました。,I bought snacks at the supermarket.,〜で + を + verb,statement,"スーパー, おかし, かいました",買,audio/0x042.mp3,A person holding a shopping bag of snacks
+0x043,1,Genki 2,きのうべんきょうしませんでした。,I did not study yesterday.,past negative (〜ませんでした),statement,"きのう, べんきょうします","昨日, 勉強",audio/0x043.mp3,Student looking tired next to unopened books
+0x044,1,Genki 2,いまなんじですか？,What time is it now?,time question,question,"いま, なんじ","今, 何時",audio/0x044.mp3,A person checking the time on a watch
+0x045,1,Genki 2,ごぜんしちじにおきました。,I got up at 7 a.m.,time + に + verb,statement,"ごぜん, しちじ, おきました","午前, 七時, 起",audio/0x045.mp3,Alarm clock ringing at 7 a.m.
+0x046,1,Genki 2,こんばん、パーティーがあります。,There is a party tonight.,〜があります (event existence),statement,"こんばん, パーティー",今晩,audio/0x046.mp3,A party invitation or decorated party space
+0x047,1,Genki 2,いっしょにいきませんか？,Would you like to go together?,〜ませんか (invitation),invitation,"いっしょに, いきます",行,audio/0x047.mp3,Two friends making weekend plans
+0x048,1,Genki 2,いいですね。たのしみです。,Sounds good. I’m looking forward to it.,positive response + emotional statement,response,"いい, たのしみ",楽,audio/0x048.mp3,Someone smiling with excitement
+0x049,1,Genki 2,にちようびにサッカーのしあいがあります。,There is a soccer match on Sunday.,〜に + event + があります,statement,"にちようび, サッカー, しあい","日曜日, 試合",audio/0x049.mp3,Crowd at a soccer match on a sunny field
+0x04A,1,Genki 2,どこでしあいがありますか？,Where is the match?,どこで + event + がありますか？,question,"どこ, しあい",試合,audio/0x04A.mp3,Person looking at a game schedule
+0x04B,1,Genki 2,がっこうのグラウンドです。,It’s at the school ground.,location + です,statement,"がっこう, グラウンド",学校,audio/0x04B.mp3,School sports ground with soccer goal
+0x04C,1,Genki 2,たなかさんといきます。,I’m going with Tanaka.,〜と + verb,statement,"たなか, と, いきます","田中, 行",audio/0x04C.mp3,Two friends walking to an event together
+0x04D,1,Genki 2,にちようびはひまですか？,Are you free on Sunday?,〜は〜ですか？ (question about availability),question,"にちようび, ひま",日曜日,audio/0x04D.mp3,A friend asking about weekend plans
+0x04E,1,Genki 2,はい、ひまです。,"Yes, I’m free.",affirmative response,response,ひま,—,audio/0x04E.mp3,Person relaxing on a sofa
+0x04F,1,Genki 2,いいえ、アルバイトがあります。,"No, I have a part-time job.",negative response + があります,response,アルバイト,—,audio/0x04F.mp3,A person working at a café
+0x050,1,Genki 2,こんしゅうのしゅうまつ、なにをしますか？,What will you do this weekend?,〜なにをしますか？ (future activity question),question,"こんしゅう, しゅうまつ, なに, します","今週, 週末, 何",audio/0x050.mp3,Calendar showing the weekend circled
+0x051,1,Genki 2,ともだちとでかけます。,I will go out with friends.,〜と + verb (future action),statement,"ともだち, でかけます",友達,audio/0x051.mp3,Friends leaving the house happily
+0x052,1,Genki 2,たくさんしゃしんをとりました。,I took a lot of photos.,past tense verb,statement,"たくさん, しゃしん, とりました","写真, 撮",audio/0x052.mp3,Someone flipping through travel photos
+0x053,1,Genki 2,そして、おんせんにもはいりました。,And I also went into a hot spring.,〜て、〜も + verb (sequence and addition),statement,"おんせん, はいりました","温泉, 入",audio/0x053.mp3,A peaceful hot spring in the mountains
+0x054,1,Genki 2,せんせいにでんわをかけました。,I called the teacher.,person + に + でんわをかけます,statement,"せんせい, でんわ, かけました","先生, 電話",audio/0x054.mp3,A student holding a phone to their ear
+0x055,1,Genki 2,しゅくだいをわすれました。,I forgot my homework.,〜をわすれました (forgot something),statement,"しゅくだい, わすれました",宿題,audio/0x055.mp3,A student looking shocked with no homework
+0x056,1,Genki 2,いぬがにわにいます。,The dog is in the yard.,が + に + います (living thing's location),statement,"いぬ, にわ, います","犬, 庭",audio/0x056.mp3,A dog sitting in a green backyard
+0x057,1,Genki 2,このバスはがっこうにいきますか？,Does this bus go to school?,〜は〜にいきますか？,question,"この, バス, がっこう, いきます","学校, 行",audio/0x057.mp3,A student pointing at a bus
+0x058,1,Genki 2,えきまであるいていきます。,I will walk to the station.,place + まで + あるいていきます,statement,"えき, あるきます","駅, 歩",audio/0x058.mp3,Person walking along a city street toward station
+0x059,1,Genki 2,このへんにコンビニがありますか？,Is there a convenience store around here?,〜に〜がありますか？,question,"このへん, コンビニ",—,audio/0x059.mp3,A map showing nearby stores
+0x05A,1,Genki 2,はい、あのビルのしたにあります。,"Yes, it’s under that building.",location + にあります,statement,"はい, あの, ビル, した",下,audio/0x05A.mp3,Someone pointing at a tall building
+0x05B,1,Genki 2,にほんのアニメがすきです。,I like Japanese anime.,〜がすきです (expressing likes),statement,"にほん, アニメ, すき","日本, 好",audio/0x05B.mp3,A person watching anime on a screen
+0x05C,1,Genki 2,おんがくをきくのがすきです。,I like listening to music.,verb + のがすきです,statement,"おんがく, ききます, すき","音楽, 聞, 好",audio/0x05C.mp3,Someone listening to music with headphones
+0x05D,1,Genki 2,たべるのがすきじゃないです。,I don't like eating.,verb + のがすきじゃないです (dislike),statement,"たべます, すきじゃない",食,audio/0x05D.mp3,Person pushing away a plate of food
+0x05E,1,Genki 2,ねるのがすきですか？,Do you like sleeping?,verb + のがすきですか？ (question),question,"ねます, すき","寝, 好",audio/0x05E.mp3,Person lying in bed happily
+0x05F,1,Genki 2,はい、だいすきです！,"Yes, I love it!",だいすき (strong positive feeling),response,"はい, だいすき",大好,audio/0x05F.mp3,Person with heart emojis or joyful face
+0x060,1,Genki 2,としょかんでほんをよむのがすきです。,I like reading books in the library.,place + で + verb + のがすきです,statement,"としょかん, ほん, よみます, すき","図書館, 本, 読, 好",audio/0x060.mp3,A person reading in a quiet library
+0x061,1,Genki 2,にちようびにおよぐのがすきです。,I like swimming on Sundays.,time + に + verb + のがすきです,statement,"にちようび, およぎます, すき","日曜日, 泳, 好",audio/0x061.mp3,Person swimming in a pool on a sunny day
+0x062,1,Genki 2,えいがをみるのがすきです。,I like watching movies.,verb + のがすきです,statement,"えいが, みます, すき","映画, 見, 好",audio/0x062.mp3,Someone watching a movie with popcorn
+0x063,1,Genki 2,あしたひまですか？,Are you free tomorrow?,〜は〜ですか？ (availability),question,"あした, ひま",明日,audio/0x063.mp3,Calendar showing tomorrow's date circled
+0x064,1,Genki 2,はい、でかけましょう！,"Yes, let’s go out!",〜ましょう (invitation),invitation,"はい, でかけます",—,audio/0x064.mp3,Friends heading outside together
+0x065,1,Genki 2,ともだちのたんじょうびパーティーにいきます。,I’m going to a friend’s birthday party.,〜の〜にいきます,statement,"ともだち, たんじょうび, パーティー, いきます","友達, 誕生日, 行",audio/0x065.mp3,Someone carrying a birthday gift
+0x066,1,Genki 2,プレゼントをかいました。,I bought a present.,〜をかいました (past tense),statement,"プレゼント, かいました",買,audio/0x066.mp3,A wrapped gift box with a ribbon
+0x067,1,Genki 2,たくさんのひとがきました。,A lot of people came.,subject + が + past verb,statement,"たくさん, ひと, きました","人, 来",audio/0x067.mp3,Crowd of people at a party or event
+0x068,1,Genki 2,とてもたのしかったです。,It was very fun.,い-adjective past tense,statement,"とても, たのしい",楽,audio/0x068.mp3,Group laughing and celebrating together
+0x069,1,Genki 2,あさごはんをたべませんでした。,I didn’t eat breakfast.,past negative verb (〜ませんでした),statement,"あさごはん, たべませんでした","朝ご飯, 食",audio/0x069.mp3,A plate with untouched breakfast food
+0x06A,1,Genki 2,せんしゅうのきんようびにえいがをみました。,I watched a movie last Friday.,time expression + に + past verb,statement,"せんしゅう, きんようび, えいが, みました","先週, 金曜日, 映画, 見",audio/0x06A.mp3,Movie theater ticket stub dated Friday
+0x06B,1,Genki 2,あのひとはだれですか？,Who is that person?,あの + noun + は + だれですか？,question,"あの, ひと, だれ","人, 誰",audio/0x06B.mp3,Someone pointing across a room
+0x06C,1,Genki 2,いもうとはこうこうせいです。,My younger sister is a high school student.,family term + は + X です,statement,"いもうと, こうこうせい","妹, 高校生",audio/0x06C.mp3,A student in a school uniform
+0x06D,1,Genki 2,しんぶんをよみますか？,Do you read the newspaper?,〜を + verb + ますか？,question,"しんぶん, よみます","新聞, 読",audio/0x06D.mp3,Person reading a newspaper with coffee
+0x06E,1,Genki 2,ときどきテレビをみます。,I sometimes watch TV.,frequency adverb + を + verb,statement,"ときどき, テレビ, みます","時々, 見",audio/0x06E.mp3,TV screen showing a drama
+0x06F,1,Genki 2,でんしゃでがっこうにいきます。,I go to school by train.,〜で (by means of transport),statement,"でんしゃ, がっこう, いきます","電車, 学校, 行",audio/0x06F.mp3,Train arriving at a school station
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
